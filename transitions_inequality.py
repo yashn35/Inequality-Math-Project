@@ -37,4 +37,3 @@ for i in range(0,5):
 	variables[name1]=population_distribution
 
 scipy.io.savemat("transistion_and_distributions.mat",variables)	
-
