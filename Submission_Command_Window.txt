@@ -1,0 +1,137 @@
+White_P_Transition * black_population_distribution
+
+ans =
+
+   21.1246
+   22.1575
+   21.4298
+   19.6119
+   15.6571
+
+>> White_P_Transition^2 * black_population_distribution
+
+ans =
+
+   18.2416
+   19.7772
+   20.9077
+   21.4512
+   19.6052
+
+>> black_population_distribution
+
+black_population_distribution =
+
+   37.6530
+   29.6970
+   16.6408
+   10.1878
+    5.7985
+
+>> White_P_Transition^10 * black_population_distribution
+
+ans =
+
+   17.3500
+   18.9529
+   20.5564
+   21.9414
+   21.1963
+
+>> black_population_distribution
+
+black_population_distribution =
+
+   37.6530
+   29.6970
+   16.6408
+   10.1878
+    5.7985
+
+>> Black_P_Transition * Alex, thanks for giving me the tour of Embark Truck and showing me around. I found the work you are doing very inspiring. Robotics and self-driving technologies are my passion and I want to explore these in my high school. 
+
+I wanted to ask you if there might be an opportunity to do an internship at Embark this summer.  I feel that I can learn a lot by being around you and your team. So if there is anything related to programming where I can write some code,  or help with testing or any other tasks, I would love to take it on. 
+Undefined function or variable 'Alex'.
+ 
+>> I wanted to ask you if there might be an opportunity to do an internship at Embark this summer.  I feel that I can learn a lot by being around you and your team. So if there is anything related to programming where I can write some code,  or help with testing or any other tasks, I would love to take it on.
+Undefined function or variable 'I'.
+ 
+>> Black_P_Transition * black_population_distribution
+
+ans =
+
+   22.7059
+   28.3733
+   23.0916
+   15.5027
+   10.3025
+
+>> Black_P_Transition^2 * black_population_distribution
+
+ans =
+
+   20.9040
+   26.4686
+   23.3735
+   17.0216
+   12.2069
+
+>> White_P_Transition
+
+White_P_Transition =
+
+    0.2727    0.2050    0.1650    0.1342    0.1131
+    0.2618    0.2267    0.1935    0.1598    0.1241
+    0.2075    0.2278    0.2283    0.2100    0.1575
+    0.1541    0.1993    0.2335    0.2582    0.2371
+    0.1040    0.1412    0.1797    0.2378    0.3682
+
+>> white_population_distribution
+
+white_population_distribution =
+
+   11.6919
+   15.9624
+   21.4152
+   24.5870
+   26.3190
+
+>> White_P_Transition * white_population_distribution
+
+ans =
+
+   16.2704
+   18.0186
+   20.2599
+   22.5721
+   22.8556
+
+>> White_P_Transition^2 * white_population_distribution
+
+ans =
+
+   17.0878
+   18.7081
+   20.4460
+   22.0763
+   21.6601
+
+>> asian_population_distribution
+
+asian_population_distribution =
+
+   23.5260
+   19.3870
+   17.3403
+   16.8586
+   22.8704
+
+>> Asian_P_Transition * asian_population_distribution
+
+ans =
+
+   16.7158
+   17.3910
+   18.7556
+   20.8004
+   26.3191
